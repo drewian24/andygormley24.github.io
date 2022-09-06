@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andy Gormley’s Wedpage for Data Visualization",
+    "section": "",
+    "text": "CV\n2019 Resume 2.pdf\nContact\n[aig170000@utdallas.edu](mailto:aig170000@utdallas.edu)\nA random set of plots.\n\npar(family=\"sans\")\nplot(iris, col=\"steelblue\")"
+  }
+]
